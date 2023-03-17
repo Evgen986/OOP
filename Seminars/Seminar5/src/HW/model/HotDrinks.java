@@ -1,8 +1,6 @@
 package HW.model;
 
-import java.math.BigDecimal;
-
-public class HotDrinks extends Drinkables{
+public class HotDrinks extends Drinkables {
     private int temp;
 
     /**

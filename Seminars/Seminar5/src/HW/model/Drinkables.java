@@ -1,8 +1,7 @@
 package HW.model;
 
-import java.math.BigDecimal;
 
-public class Drinkables extends Product{
+public class Drinkables extends Product {
     private Double volume;
 
     /**
@@ -36,13 +35,4 @@ public class Drinkables extends Product{
         return super.toString() + "объем = " + volume + " ";
     }
 
-    /**
-     * Задание объема напитка с проверкой на некорректное значение
-     *
-     * @param volume объем напитка
-     */
-    public void setVolume(Double volume) {
-        if (volume > 0) this.volume = volume;
-        else System.out.println("Объем напитка не может быть равен или меньше нуля!");
-    }
 }

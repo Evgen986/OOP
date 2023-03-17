@@ -1,8 +1,6 @@
 package HW.model;
 
-import java.math.BigDecimal;
-
-public class BottleOfWater extends Drinkables{
+public class BottleOfWater extends Drinkables {
     /**
      * Перегруженный конструктор класса Бутилированных напитков
      *

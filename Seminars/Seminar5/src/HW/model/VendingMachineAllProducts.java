@@ -1,8 +1,6 @@
 package HW.model;
 
-import java.math.BigDecimal;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
     /**
@@ -14,21 +12,24 @@ public class VendingMachineAllProducts<T extends Product> implements VendingMach
     private List<T> product;
     private final List<T> resultFind = new ArrayList<>();
 
-
+        /**
+         * Переопределенный иметод интефейса VendingMachine
+         * @param list продуктов
+         */
     @Override
     public void initProduct(List list) {
         this.product = list;
     }
 
-        /**
+    /**
      * Поиск продукта по имени
      *
      * @param name наименование продукта
      * @return найденный результат или "Не найдено"
      */
     public String getProduct(String name) {
-        for (T product : product) {
-            if (product.getName().equals(name)) return product.toString();
+        for (T el : product) {
+            if (el.getName().equals(name)) return el.toString();
         }
         return "Не найдено!";
     }

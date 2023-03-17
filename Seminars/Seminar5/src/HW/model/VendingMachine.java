@@ -2,11 +2,11 @@ package HW.model;
 
 import java.util.List;
 
-public interface VendingMachine <T>{
+public interface VendingMachine<T> {
     /**
      * Внесение продуктов в торговый автомат
      */
-    void initProduct(List <T> list);
+    void initProduct(List<T> list);
 
     /**
      * Получение продукта из торгового автомата

@@ -1,0 +1,10 @@
+
+n
+java:S1192,"XDefine a constant instead of duplicating this literal "Введите цену" 4 times.(����
+z
+java:S1192"dDefine a constant instead of duplicating this literal "Не корректный ввод!" 6 times.(����
+v
+java:S1192+"`Define a constant instead of duplicating this literal "Введите название" 4 times.(��Ɋ
+q
+java:S1192"\Define a constant instead of duplicating this literal "Выберите пункт" 7 times.(���Y
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(���������

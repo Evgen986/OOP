@@ -1,7 +1,5 @@
 package HW.model;
 
-import java.math.BigDecimal;
-
 public abstract class Product {
     private String name;
     private float price;
@@ -43,10 +41,6 @@ public abstract class Product {
      */
     public float getPrice() {
         return price;
-    }
-
-    public void setPrice(float price) {
-        this.price = price;
     }
 
     /**
