@@ -1,0 +1,19 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬”Ûÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„®Ë”
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÊŞã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Éñ¼şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëõıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Â¶÷İıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»Ëœ¹
+T
+java:S5993)"9Change the visibility of this constructor to "protected".(Õ…ÓŒúÿÿÿÿ
+9
+java:S1659k"#Declare "team2" on a separate line.(Äò®ó
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(Š‚êƒÿÿÿÿÿ
+U
+java:S1118y":Add a private constructor to hide the implicit public one.(Åç¤Œúÿÿÿÿ
+b	java:S100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÿõw
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¶àë
+d	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¨Êº

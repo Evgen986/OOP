@@ -1,0 +1,10 @@
+
+g
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(ëª™Š
+A
+java:S1444"+Make this "public static count" field final(ëª™Š
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢þÖ¦øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(éûéþÿÿÿÿ
+i
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ØöÛÓýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(³ûÇ

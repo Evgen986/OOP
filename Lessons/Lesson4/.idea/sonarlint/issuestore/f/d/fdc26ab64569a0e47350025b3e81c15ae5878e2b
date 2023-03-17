@@ -1,0 +1,16 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È‹²ïøÿÿÿÿ
+_
+java:S1192"IDefine a constant instead of duplicating this literal "lastName" 3 times.(šº¸Ù
+`
+java:S1192"JDefine a constant instead of duplicating this literal "firstName" 3 times.(šº¸Ù
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó‰¦Ð
+K
+java:S1854"5Remove this useless assignment to local variable "w".(šº¸Ù
+<
+java:S1481"&Remove this unused "w" local variable.(šº¸Ù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶€§ˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½ëŠî
+Q	java:S125!"<This block of commented-out lines of code should be removed.(Õ¥ôÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(”›äåûÿÿÿÿ

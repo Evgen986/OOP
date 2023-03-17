@@ -1,0 +1,15 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ëº¡ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µĞÁÁ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ŞúÊƒıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Éñ¼şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëõıÿÿÿÿ
+T
+java:S5993!"9Change the visibility of this constructor to "protected".(Õ…ÓŒúÿÿÿÿ
+9
+java:S1659c"#Declare "team2" on a separate line.(…İ—á
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(Š‚êƒÿÿÿÿÿ
+U
+java:S1118q":Add a private constructor to hide the implicit public one.(Åç¤Œúÿÿÿÿ
+c	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒè¸á

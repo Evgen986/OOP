@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹’Áâ
+k
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(ÓÔç8´àˆí0
+T
+java:S1128"2Remove this unused import 'java.util.Spliterator'.(òÀì¿ùÿÿÿÿ8µàˆí0
+Z
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8µàˆí0
