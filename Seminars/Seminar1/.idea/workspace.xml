@@ -5,31 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc23d862-49d4-4c66-9613-f21b7ccd399e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/src/BottleOfWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/src/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/VendingMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/BottleOfWater.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/VendingMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task2/VendingMachine1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/VendingMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/task2/BottleOfWater.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/task2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/task2/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/task2/VendingMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/task2/VendingMachine1.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/Lesson5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/base.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task1/UI/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task1/model/Counting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task1/model/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task1/model/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task1/presenter/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/model/BaseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/model/ExportBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/model/ImportBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/model/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/model/WorkingWithBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/presenter/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/view/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lessons/Lesson5/src/task2/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/Seminar4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/HW/BottleOfWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/HW/Drinkables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/HW/HotDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/HW/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/HW/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/HW/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/HW/VendingMachineAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task1/VetClinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/ComparableOfNameAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/ListOfCats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/ListOfDogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/ListOfDogsIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar4/src/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/Seminar5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/baseBottleOfWatter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/baseHotDrinks.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/BaseBottleOfWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/BaseHotDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/BaseProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/BottleOfWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/Drinkables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/HotDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/model/VendingMachineAllProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/HW/view/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task1/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task1/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task1/service/UsreServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task1/view/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/model/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/model/UsersList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/view/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminar5/src/task2/view/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/presenter/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/ui/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/ui/DesktopUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/ui/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/weather_api/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/weather_api/Formatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/weather_api/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/weather_api/WeatherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/weather_api/weather/Current.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/weather_api/weather/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeminarsAnotherGroup/seminar4/wetherApi/src/main/java/weather_api/weather/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork/src/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +115,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/УЧЕБА/OOP/Seminars/Seminar1/HomeWork"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/УЧЕБА/OOP/Seminars/Seminar1/HomeWork&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
